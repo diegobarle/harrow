@@ -1,1 +1,1 @@
-{"version":"6","news":[]}
+{"version":"7","news":[{"title":"Problems with timetables","description":"Developer announcement: The app is facing some issues to show the timetables reminders and timers for Today's tab. I'm working to fix the problem and I will upload a new version of the app with this issue solved as soon as I can. I apologize for the inconvencience.","dayDue":17,"monthDue":5,"yearDue":2018}]}
