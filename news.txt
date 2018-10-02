@@ -1,1 +1,1 @@
-{"version":"21","news":[]}
+{"version":"22","news":[{"title":"Late October timetables","description":"Dear all,\r\n\r\nAssalamuallaikum. I would like to apologize for uploading the timetables late this month; I was not able to have access to them in order to add them to the app until the month was already started. I am sorry for the problems that might have caused. If you need anything, please do not hesitate in get in touch with me.\r\n\r\nKind regards,\r\n\r\nKamal Al-Din\r\nHarrow Central Mosque app developer.","dayDue":10,"monthDue":9,"yearDue":2018}]}
