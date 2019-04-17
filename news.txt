@@ -1,1 +1,1 @@
-{"version":"25","news":[]}
+{"version":"26","news":[{"title":"Ramadan Taraweeh 2019","description":"Harrow Central Mosque is blessed to have two excellent Qari's leading Taraweeh this year. Hafiz Mohammad Sharif will lead the first 12 Rakat and Hafiz Owais Khan will lead the last 8 Rakat.\r\n\r\nAllahumma barik lana fi Rajab wa Shaban wa balighna Ramadan.\r\n\r\nO Allah! Make the months of Rajab and Sha’ban blessed for us, and let us reach the month of Ramadan.","dayDue":4,"monthDue":5,"yearDue":2019}]}
