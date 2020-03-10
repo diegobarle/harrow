@@ -1,1 +1,1 @@
-{"version":"33","news":[]}
+{"version":"34","news":[{"title":"March timetables","description":"Dear all,\r\n\r\nI'd like to apologise for this month's timetables late upload - I've been having trouble finding them in the past weeks. Thank you to who have sent me emails regarding the issue and thank you all for your patience.\r\n\r\nBest,\r\n\r\nHarrow Central Mosque app developer","dayDue":9,"monthDue":2,"yearDue":2020}]}
